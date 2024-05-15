@@ -34,7 +34,7 @@ Open the link below to see a complete documentation of this application
 
 ## ERD
 
-![ERD](<Untitled (1).png>)
+![ERD](ERD.png)
 
 ## Contribution
 
